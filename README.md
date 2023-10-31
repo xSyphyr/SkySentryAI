@@ -7,7 +7,7 @@ At SkySentryAI, our mission is to revolutionize transportation management and sa
 
 
 ##  Data Deck
-[Google Slide Data Deck](https://docs.google.com/presentation/d/1JuHDfsJL5S2unNAP_6iWqWC_wB_WmdSKYS6D0M1KvJ8/edit?usp=sharing
+[Google Slide Data Deck](https://docs.google.com/presentation/d/1JuHDfsJL5S2unNAP_6iWqWC_wB_WmdSKYS6D0M1KvJ8/edit?usp=sharing)
 
 ## Image Filters
 
