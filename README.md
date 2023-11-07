@@ -11,4 +11,3 @@ Weather forecasts are not always accurate. Day in and day out there is unexpecte
 ## Image Filters
 
 ## Description of AlexNet
-AlexNet takes in an image and detects objects that are within that image. 
