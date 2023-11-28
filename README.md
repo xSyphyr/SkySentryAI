@@ -8,6 +8,10 @@ Weather forecasts are not always accurate. Day in and day out there is unexpecte
 ##  Data Deck
 [Google Slide Data Deck](https://docs.google.com/presentation/d/1JuHDfsJL5S2unNAP_6iWqWC_wB_WmdSKYS6D0M1KvJ8/edit?usp=sharing)
 
+The Data Deck above provides a comprehensive look at the diverse and carefully curated dataset instrumental in training SkySentryAI. These images capture various weather conditions and real-world scenarios, serving as the foundation for our AI models. The insights gained from this dataset empower SkySentryAI to deliver accurate and timely information, transforming how we address weather-related challenges. Dive into the slides to explore the rich tapestry of data that fuels the development of SkySentryAI's cutting-edge technology.
+
+---
+
 ## Image Filters
 
 ## AlexNet
