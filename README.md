@@ -11,23 +11,24 @@ Weather forecasts are not always accurate. Day in and day out there is unexpecte
 ## Image Filters
 
 ## AlexNet
-
-AlexNet is a convolutional neural network (CNN) architecture that played a pivotal role in the advancement of deep learning and computer vision. Developed by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton, it achieved significant success by winning the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) in 2012, marking a breakthrough in image classification tasks.
+AlexNet is a groundbreaking convolutional neural network (CNN) architecture that won the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) in 2012. Developed by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton, it marked a significant advance in image classification.
 
 **Key Features:**
 
-1. **Deep Architecture:** AlexNet comprises eight layers, including five convolutional layers and three fully connected layers. It introduced a deep neural network architecture, challenging the conventional belief that deep networks were difficult to train.
+1. **Deep Structure:** AlexNet has eight layers, including five convolutional and three fully connected layers, challenging the belief that deep networks are hard to train.
 
-2. **Rectified Linear Unit (ReLU):** Extensive use of the rectified linear unit activation function (ReLU) in hidden layers to mitigate the vanishing gradient problem and accelerate training convergence.
+2. **ReLU Activation:** It uses ReLU activation for faster training and to avoid the vanishing gradient problem.
 
-3. **Local Response Normalization (LRN):** Implementation of local response normalization in convolutional layers to enhance the network's ability to generalize and respond to variations in input data.
+3. **Normalization:** Incorporates local response normalization (LRN) in convolutional layers for better generalization.
 
-4. **Dropout:** Use of dropout to prevent overfitting by randomly deactivating a percentage of neurons, reducing co-dependency among neurons and improving generalization.
+4. **Dropout:** Employs dropout to prevent overfitting by deactivating some neurons during training.
 
-5. **Data Augmentation:** Incorporation of data augmentation techniques during training, such as cropping and flipping, to increase the diversity of the training dataset and improve the model's robustness.
+5. **Data Augmentation:** Uses techniques like cropping and flipping during training to enhance dataset diversity.
 
-6. **GPU Acceleration:** One of the first neural networks designed to take advantage of Graphics Processing Units (GPUs), significantly accelerating the training process and making deep learning more feasible for large-scale datasets.
+6. **GPU Acceleration:** Utilizes GPU acceleration for faster training, making deep learning more practical for large datasets.
 
-AlexNet's success marked the beginning of a new era in deep learning, inspiring the development of subsequent, more complex neural network architectures. Its principles continue to influence the design of modern convolutional neural networks used in various applications, including image recognition, object detection, and image segmentation.
+AlexNet's success revolutionized deep learning, influencing the design of modern CNNs used in image recognition, object detection, and more.
+
+---
 
 ---
