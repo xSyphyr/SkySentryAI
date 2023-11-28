@@ -15,6 +15,8 @@ The Data Deck above provides a comprehensive look at the diverse and carefully c
 ## Image Filters
 
 ## AlexNet
+![AlexNet Image](https://miro.medium.com/v2/resize:fit:1400/1*bD_DMBtKwveuzIkQTwjKQQ.png)
+
 AlexNet is a groundbreaking convolutional neural network (CNN) architecture that won the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) in 2012. Developed by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton, it marked a significant advance in image classification.
 
 **Key Features:**
