@@ -16,6 +16,8 @@ The Data Deck above provides a comprehensive look at the diverse and carefully c
 
 ## Image Filters
 
+---
+
 ## AlexNet
 ![AlexNet Image](https://miro.medium.com/v2/resize:fit:1400/1*bD_DMBtKwveuzIkQTwjKQQ.png)
 
@@ -36,6 +38,28 @@ AlexNet is a groundbreaking convolutional neural network (CNN) architecture that
 6. **GPU Acceleration:** Utilizes GPU acceleration for faster training, making deep learning more practical for large datasets.
 
 AlexNet's success revolutionized deep learning, influencing the design of modern CNNs used in image recognition, object detection, and more.
+
+---
+
+## YoloV5 Integration
+In the evolution of SkySentryAI, the integration of YOLOv5 marks a significant stride in object detection and recognition within our weather analysis framework. YOLOv5, renowned for its speed and accuracy, brings a streamlined approach to identifying and tracking objects of interest in real-time.
+
+**Key Contributions of YOLOv5 to SkySentryAI:**
+
+1. **Efficient Object Detection:** YOLOv5's unique one-shot object detection approach facilitates rapid identification of objects within our expansive weather dataset. This efficiency is paramount in detecting and analyzing various elements, such as road conditions and potential hazards.
+
+2. **Precision and Accuracy:** YOLOv5's advanced architecture enhances the precision and accuracy of object recognition in diverse weather scenarios. This ensures SkySentryAI delivers reliable and precise insights for effective decision-making.
+
+3. **Adaptability to Varied Conditions:** YOLOv5's adaptability allows SkySentryAI to seamlessly navigate through diverse weather conditions, ensuring robust performance across scenarios ranging from clear skies to inclement weather.
+
+4. **Real-time Object Tracking:** The real-time capabilities of YOLOv5 empower SkySentryAI to track and monitor objects dynamically. This is crucial for understanding the evolving weather landscape and responding proactively to potential challenges.
+
+5. **Integration with Advanced Analytics:** YOLOv5's integration complements SkySentryAI's analytics suite, providing a comprehensive solution for not only detecting objects but also extracting valuable insights for improved decision support.
+
+The incorporation of YOLOv5 into SkySentryAI exemplifies our commitment to leveraging state-of-the-art technologies, ensuring our platform remains at the forefront of innovation in weather analysis and prediction.
+
+![bad2](https://github.com/xSyphyr/SkySentryAI/assets/143010034/8a094bb7-692b-462a-a90a-7e9015dda15b)
+
 
 ---
 
