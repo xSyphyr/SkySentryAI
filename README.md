@@ -67,4 +67,7 @@ Below is a picture from the dataset that is used to train the model, ran through
 
 ## Results
 
+<img width="1124" alt="WandB Chart" src="https://github.com/xSyphyr/SkySentryAI/assets/143010034/0dd04f17-3aae-436a-b37b-6823510c652e">
+
+
 ---
