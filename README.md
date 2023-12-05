@@ -58,6 +58,7 @@ In the evolution of SkySentryAI, the integration of YOLOv5 marks a significant s
 
 The incorporation of YOLOv5 into SkySentryAI exemplifies our commitment to leveraging state-of-the-art technologies, ensuring our platform remains at the forefront of innovation in weather analysis and prediction.
 
+Below is a picture from the dataset that is used to train the model, ran through YoloV5. This can be used to aid in detecting broken down or abandoned vehicles on the side of the road as well as pedestrians that are in areas that they would not be.
 ![bad2](https://github.com/xSyphyr/SkySentryAI/assets/143010034/8a094bb7-692b-462a-a90a-7e9015dda15b)
 
 
