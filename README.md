@@ -5,7 +5,7 @@ At SkySentryAI, our mission is to revolutionize transportation management and sa
 ---
 
 ## Logo
-![skysentryai-logo](https://github.com/xSyphyr/SkySentryAI/assets/143010034/3a789b7b-b032-4b7b-b3a1-3d6251015061)
+<img src="https://github.com/xSyphyr/SkySentryAI/assets/143010034/3a789b7b-b032-4b7b-b3a1-3d6251015061" alt="SkySentryAI Logo" width="300"/>
 
 ---
 
