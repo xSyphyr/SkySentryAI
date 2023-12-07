@@ -66,7 +66,7 @@ Below is a picture from the dataset that is used to train the model, ran through
 ---
 
 ## Results
-Currently, our model is trained to 90% accuracy. The accuracy is only going higher as time goes on with better training and more scenarios.
+Currently, our model is trained to 90% accuracy and 40% loss. The accuracy is only going higher as time goes on with better training and more scenarios. The loss has been on a stead decline and will go down further with more training.
 
 <img width="1124" alt="WandB Chart" src="https://github.com/xSyphyr/SkySentryAI/assets/143010034/0dd04f17-3aae-436a-b37b-6823510c652e">
 
